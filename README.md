@@ -13,18 +13,18 @@ cd nome-do-projeto
 2. Crie um ambiente virtual (obrigatório):
 ´´´bash
 python -m venv venv
-source venv/Scripts/activate
+source venv/Scripts/activate    
 
-3, Instale as dependências
+3, Instale as dependências  
 ´´´bash
-pip install -r requirements.txt
+pip install -r requirements.txt   
 ´´´
 4. Inicie o servidor:
 ´´´bash
 python app.py
 ´´´
 
-> A api está disponível em http: http://127.0.0.1:5000/
+> A api está disponível em http: http://127.0.0.1:5000/livros
 
 ## Endpoints
 
