@@ -24,7 +24,7 @@ pip install -r requirements.txt
 python app.py
 ´´´
 
-> A api está disponível em http: http://127.0.0.1:5000/livros
+> A api está disponível em http: https://api-biblioteca-duyo.onrender.com/livros
 
 ## Endpoints
 
